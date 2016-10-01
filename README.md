@@ -34,3 +34,6 @@ Write a python program. (From a text file)
          in this code path is of my lappy you may have to change that according to your package location
          Package download links are avalivale in above given link (help)
          then run the code with test statment  
+# new files assignment_1oct_2016.py and demo.txt
+    NER is working with the given dataset (Data_NLP_SPJain.txt)
+    and for POS and Parse we are reading data from demo.txt (created by us)
